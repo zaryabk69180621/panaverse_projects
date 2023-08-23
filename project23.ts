@@ -1,0 +1,13 @@
+let car:string="honda";
+console.log("is car == \"Subaru\", I predict flase",car==="subaru");
+let Aliage=10,Nomanage=3;
+console.log("is noman older than ali, i predict flase",Nomanage>Aliage);
+console.log("is three greater than four, ipredict flase",3>4);
+console.log("is 5 greater than 500, i predict flase",5>500);
+let Name="ali";
+console.log("is your name ahmed, i predict false",Name==="ahmed");
+console.log("is car==\"honda\" i predict true",car==="honda");
+console.log("is your name ali, i predict true",Name==="ali");
+console.log("is Ali older than Noman, i predict true",Aliage>Nomanage);
+console.log("is three less than 5 , i predict true",3<5);
+console.log("is -6 >-6.1, i predict true", -6>-6.1);

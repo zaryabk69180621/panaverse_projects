@@ -1,0 +1,13 @@
+console.log(`is "ali"=="ali", ipredict true`,"ali"==="ali");
+let var1:string="ali",var2:string="Ali";
+console.log(`is "Ali"=="ali", I predict flase`,var1==var2);
+var1="Ali";
+console.log("is ALI>ali, i predict false because of acsii code",var1.toUpperCase()>var2.toLowerCase());
+console.log("is 4>5, i predict false",4>5);
+console.log("is 5>4, i predict true",5>4);
+console.log("what is True or false, i predict true", true||false);
+console.log("what is true and false, ipredict false",true&&false);
+let fvrtfood: string[]=["mantu","pizza","karrahi","okra","zukini"];
+console.log("is mantu one of your favourite foods , i predict true",fvrtfood.includes("mantu"));
+console.log("is eggplant one of you favourite foods i predict false",fvrtfood.includes("eggplant"));
+export{};

@@ -1,0 +1,1 @@
+console.log("Imran Khan Said:\"Compromise for your Dream but NEVER Compromise on your Dream.\"");
